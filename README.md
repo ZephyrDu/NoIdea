@@ -19,8 +19,8 @@
 
 ## 三、qt开发环境的安装：
 
-    1. 在<https://www.qt.io/download>下载qt开发环境(注意使用Open Source开源版本)
-    2. 在<http://doc.qt.io/qt-5/gettingstarted.html>获得相关基础教程
+    1. 在[这里](https://www.qt.io/download)下载qt开发环境(注意使用Open Source开源版本)
+    2. 在[这里](http://doc.qt.io/qt-5/gettingstarted.html)获得相关基础教程
     3.
 
 ## 四、文件简介
